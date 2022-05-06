@@ -1,3 +1,20 @@
+# E-Commerce Back End
+
+## Description
+
+  Hooks up the given front end code to request, recieve and route requests through a server and to the product database.
+
+## Table of Contents
+---
+1. [Instructions](#instructions)
+---
+
+## Instructions
+
+  [![shows the application completing get, post, put, and delete requests through routing](./Assets/e-commerce-back-end-video.gif)](https://drive.google.com/file/d/1y5Vhx1G8UDZuKckNJX85gswQLcPnDeBn/view)
+
+  The application runs via router and was created with the help of Insomnia
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
